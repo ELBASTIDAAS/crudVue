@@ -1,71 +1,81 @@
 {
-	"contacts": [
-	{
-		"id":"1SfsA1sd",
-		"name":"Miguel Bastidas",
-		"company": "Youtube",
-		"email": "miguel.bastidas@gmail.com",
-		"title": "Youtuber",
-		"mobile": "12345678",
-		"photo": "https://png.pngtree.com/png-vector/20190321/ourlarge/pngtree-vector-users-icon-png-image_856952.jpg",
-		"groupId": "3"
-	},
-	{
-		"id":"123DSFSasd",
-		"name":"Oscar Pino",
-		"company": "Softkitec",
-		"email": "oscar.pino@gmail.com",
-		"title": "Softkitec",
-		"mobile": "12536546",
-		"photo": "https://atg-prod-scalar.s3.amazonaws.com/studentpower/media/user%20avatar.png",
-		"groupId": "2"
-	},
-	{
-		"id":"ASadfaSDSF",
-		"name":"Oscar Pino",
-		"company": "Softkitec",
-		"email": "oscar.pino@gmail.com",
-		"title": "Softkitec",
-		"mobile": "2354267",
-		"photo": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
-		"groupId": "1"
-	},
-	{
-		"id":"ASadfaSDSF",
-		"name":"Daniel Palmerin",
-		"company": "Softkitec",
-		"email": "daniel.palmerin@gmail.com",
-		"title": "Softkitec",
-		"mobile": "75674245",
-		"photo": "https://www.pngplay.com/wp-content/uploads/12/User-Avatar-Profile-Free-PNG.png",
-		"groupId": "4"
-	}
-	],
-	"groups": [
-	{
-		"id": "1",
-		"name": "Colleague"
-	},
-	{
-		"id": "2",
-		"name": "Friends"
-	},
-	{
-		"id": "3",
-		"name": "Family"
-	},
-	{
-		"id": "4",
-		"name": "Service"
-	}
-    ,
-	{
-		"id": "5",
-		"name": "Community"
-	},
-	{
-		"id": "6",
-		"name": "Social"
-	}
-]
+  "contacts": [
+    {
+      "id": "1SfsA1sd",
+      "name": "Miguel Bastidas",
+      "company": "Youtube",
+      "email": "miguel.bastidas@gmail.com",
+      "title": "Youtuber",
+      "mobile": "12345678",
+      "photo": "https://png.pngtree.com/png-vector/20190321/ourlarge/pngtree-vector-users-icon-png-image_856952.jpg",
+      "groupId": "3"
+    },
+    {
+      "id": "123DSFSasd",
+      "name": "Oscar Pino",
+      "company": "Softkitec",
+      "email": "oscar.pino@gmail.com",
+      "title": "Softkitec",
+      "mobile": "12536546",
+      "photo": "https://atg-prod-scalar.s3.amazonaws.com/studentpower/media/user%20avatar.png",
+      "groupId": "2"
+    },
+    {
+      "id": "ASadfaSDSF",
+      "name": "Oscar Pino",
+      "company": "Softkitec",
+      "email": "oscar.pino@gmail.com",
+      "title": "Softkitec",
+      "mobile": "2354267",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+      "groupId": "1"
+    },
+    {
+      "id": "ASadfaSDSF",
+      "name": "Daniel Palmerin",
+      "company": "Softkitec",
+      "email": "daniel.palmerin@gmail.com",
+      "title": "Softkitec",
+      "mobile": "75674245",
+      "photo": "https://www.pngplay.com/wp-content/uploads/12/User-Avatar-Profile-Free-PNG.png",
+      "groupId": "4"
+    },
+    {
+      "name": "Jafet Creator",
+      "photo": "https://atg-prod-scalar.s3.amazonaws.com/studentpower/media/user%20avatar.png",
+      "email": "jafet@gmail.com",
+      "mobile": 11111111111,
+      "company": "TEC",
+      "title": "Alumno",
+      "group": "",
+      "groupId": "1",
+      "id": "UCkGdX8"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friends"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
 }
