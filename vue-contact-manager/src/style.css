@@ -4,3 +4,12 @@ body{
     font-family: 'Raleway', sans-serif !important;
     background-color: #9D8B8B !important;
 }
+.contact-img{
+    width: 130px;
+    border-radius: 50%;
+}
+
+.contact-img-big{
+    width: 200px;
+    border-radius: 50%;
+}
