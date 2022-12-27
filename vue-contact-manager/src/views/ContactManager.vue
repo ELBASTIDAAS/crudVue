@@ -10,7 +10,7 @@
                 <p class="text-light fst-italic">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque
                     doloribus maxime doloremque suscipit error enim voluptas, ratione autem placeat molestiae libero
                     eius quibusdam alias necessitatibus eum quos aperiam dicta? Recusandae?</p>
-                <form>
+                <!-- <form>
                     <div class="row">
                         <div class="col-md-6">
                             <div class="row">
@@ -23,7 +23,7 @@
                             </div>
                         </div>
                     </div>
-                </form>
+                </form> -->
             </div>
         </div>
     </div>
